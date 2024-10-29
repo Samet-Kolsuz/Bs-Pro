@@ -17,5 +17,4 @@ HTML & CSS & Boostrap
 
 
 ## This web page was edited by Samet KOLSUZ ##
-# Amazon-Clone
 # udemig
